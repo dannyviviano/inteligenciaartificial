@@ -8,6 +8,7 @@ Fuente: Ministerio de Salud. (2020). Casos positivos por COVID-19 - [Ministerio 
 
 Video: https://web.microsoftstream.com/video/07819e68-065a-4fcc-b2f5-6c4e34246e82
 
+Listado de ilustraciones elaboradas:
 - Porcentaje de Casos por Sexo
 - Cantidad de Casos por Provincia y Sexo
 - Cantidad de Casos por Mes
